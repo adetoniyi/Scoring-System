@@ -29,5 +29,4 @@ function resetGame() {
     numAttempts = 1
     console.log('\nNeew Game Started, Guess the a number between 1 and 100')
 }
-
-guessNumb(20)
+guessNumb(10)
